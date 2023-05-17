@@ -10,6 +10,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 **Goal**: at least 1 offer to big tech company in Europe/US
 
 ## Table of Contents
+- [Upcoming Projects 🎯](#upcoming-projects-)
 - [My Timetable 📅](#my-timetable-)
 - [Getting Started 🚀](#getting-started-)
   - [Installing 👨‍🔧](#installing-)
@@ -21,6 +22,10 @@ This is my personal coding interview preparation plan that I hope to follow duri
   - [Second Phase: Fall Term 🍂](#second-phase-fall-term-)
   - [Extra Time ⏰](#extra-time-)
 - [Show Your Support 🤝](#show-your-support-)
+
+## Upcoming Projects 🎯
+- ***RR10:*** Unconfirmed Title (Work in Progress 🚧)
+- ***RR12:*** My Personal Portfolio
 
 ## My Timetable 📅
 

@@ -10,7 +10,7 @@
 ### Coding Interview Preparation Plan 
 designed by [@ardulat](https://github.com/ardulat), revised by me. 
 
-This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customized according to my knowledge and experience. Feel free to customize it for yourself.
+This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
 **Time frame**: ~6 month (mid May - mid November)
 
@@ -19,16 +19,18 @@ This is my personal coding interview preparation plan that I hope to follow duri
 ## Table of Contents
 - [Upcoming Projects 🎯](#upcoming-projects-)
 - [My Timetable 📅](#my-timetable-)
-- [Getting Started 🚀](#getting-started-)
-  - [Installing 👨‍🔧](#installing-)
-  - [Solving Problems 🧩](#solving-problems-)
 - [Background 📚](#background-)
 - [Overview 👀](#overview-)
 - [Plan 📝](#plan-)
   - [First phase: Summer Time 🏝](#first-phase-summer-time-)
-  - [Second Phase: Fall Term 🍂](#second-phase-fall-term-)
+  - [Second Phase: Autumn Term 🍂](#second-phase-autumn-term-)
   - [Extra Time ⏰](#extra-time-)
 - [Show Your Support 🤝](#show-your-support-)
+<!-- under my timetable
+- [Getting Started 🚀](#getting-started-)
+  - [Installing 👨‍🔧](#installing-)
+  - [Solving Problems 🧩](#solving-problems-) 
+-->
 
 ## Upcoming Projects 🎯
 - ***RR10:*** Unconfirmed Title (Work in Progress 🚧)
@@ -150,7 +152,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 -->
-
+<!--
 ## Getting started 🚀
 
 If you would like to prepare for the coding interview, feel free to reuse this repo. I, personally, find it very useful to organise things like so and track what you have done so far.
@@ -172,7 +174,7 @@ To count your solved problems, execute the following Shell command:
 ```
 ./count_solved
 ```
-
+-->
 ## Background 📚
 
 Plan is based on existing preparation guides:
@@ -180,7 +182,8 @@ Plan is based on existing preparation guides:
   - **[Interview preparation guide bible from Sergey Makagonov]**
   - [List of Udacity courses developed with Google]
   - [Good guide on GitHub]
-  - [Another guide on GitHub (seems to be less powerful)]
+  <!--
+  - [Another guide on GitHub (seems to be less powerful)] -->
 
 To stay motivated during preparation:
 
@@ -214,14 +217,14 @@ To stay motivated during preparation:
 
 ## Plan 📝
 
-I have decided to split my plan into two phases (three months each): summer and fall phases.
+I have decided to split my plan into two phases (three months each): summer and autumn phases.
 
 ### First phase: Summer Time 🏝
 
 **Time to dedicate:**
    - 2 hrs on weekdays, 5 hours on weekends
    - 12 weeks
-   - Total: ( 2 x 5 + 5 x 2 ) x 12 = 240 hrs (*be realistic, 200 hrs will be good too*:wink:)
+   - Total: ( 2 x 5 + 5 x 2 ) x 12 = 240 hrs (*be realistic, 200 hrs will be good too* :wink:)
 
 **Objective:** solve > 200 problems on Leetcode! :sunglasses:
 
@@ -248,10 +251,10 @@ I have decided to split my plan into two phases (three months each): summer and 
 **Comments:**
    - Push solved problems to Github for later usage to refresh memory
 
-### Second Phase: Fall Term 🍂
+### Second Phase: Autumn Term 🍂
 
 **Time to dedicate:**
-   - TBD but less than previous phase due to university studies
+   - TBD but less than previous phase due to other commitments
 
 **Objective:** solve 100 more Leetcode problems! :sunglasses:
 
@@ -304,11 +307,10 @@ Everything listed here is optional. Even though it is not that realistic to dedi
 
 <b> Thank you </b> for taking the time to drop by and check out this revised study plan ☺️
 
-If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions. 
+If you've liked or found this helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions 📬
 
-Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content for [ ] community alike. 
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content that connects with as many people as possible 🌎
 
-Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content that connects with as many people as possible. 
 
 Thank you again for your support! 🙏
 

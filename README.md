@@ -1,7 +1,7 @@
-# RR12_MyStudyPlan
+# RR11 My Study Plan 🤓📚
 
 ### Coding Interview Preparation Plan 
-designed by @ardulat, revised by me. 
+designed by [@ardulat](https://github.com/ardulat), revised by me. 
 
 This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customized according to my knowledge and experience. Feel free to customize it for yourself.
 
@@ -9,11 +9,49 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 **Goal**: at least 1 offer to big tech company in Europe/US
 
-## Getting started
+## Table of Contents
+- [My Timetable 📅](#my-timetable-)
+- [Getting Started 🚀](#getting-started-)
+  - [Installing 👨‍🔧](#installing-)
+  - [Solving Problems 🧩](#solving-problems-)
+- [Background 📚](#background-)
+- [Overview 👀](#overview-)
+- [Plan 📝](#plan-)
+  - [First phase: Summer Time 🏝](#first-phase-summer-time-)
+  - [Second Phase: Fall Term 🍂](#second-phase-fall-term-)
+  - [Extra Time ⏰](#extra-time-)
+- [Show Your Support 🤝](#show-your-support-)
+
+## My Timetable 📅
+
+**Week 1 beginning 14/05/23:**
+
+| # | Problem Name                                             | Difficulty | Estimated Time | Topic                |
+|---|---------------------------------------------------------|------------|----------------|----------------------|
+| 1 | Two Sum                                                 | Easy       | 15 mins        | Array                |
+| 2 | Valid Parentheses                                       | Easy       | 20 mins        | Stack                |
+| 3 | Merge Two Sorted Lists                                  | Easy       | 20 mins        | Linked List          |
+| 4 | Best Time to Buy and Sell Stock                         | Easy       | 20 mins        | Array                |
+| 5 | Valid Palindrome                                        | Easy       | 15 mins        | String               |
+| 6 | Invert Binary Tree                                      | Easy       | 15 mins        | Binary Tree          |
+| 7 | Valid Anagram                                           | Easy       | 15 mins        | String               |
+| 8 | Binary Search                                           | Easy       | 15 mins        | Binary Search        |
+| 9 | Flood Fill                                              | Easy       | 20 mins        | Graph                |
+| 10 | Maximum Subarray                                       | Medium     | 20 mins        | Dynamic Programming  |
+| 11 | Lowest Common Ancestor of a Binary Search Tree          | Easy       | 20 mins        | Binary Search Tree   |
+| 12 | Insert Interval                                        | Medium     | 25 mins        | Array                |
+| 13 | 01 Matrix                                              | Medium     | 30 mins        | Graph                |
+| 14 | K Closest Points to Origin                              | Medium     | 30 mins        | Heap                 |
+| 15 | Balanced Binary Tree                                   | Easy       | 15 mins        | Binary Tree          |
+
+**Complete**
+- *RR12 -> My Personal Portfolio
+
+## Getting started 🚀
 
 If you would like to prepare for the coding interview, feel free to reuse this repo. I, personally, find it very useful to organise things like so and track what you have done so far.
 
-### Installing
+### Installing 👨‍🔧
 
 To prepare for the coding interview using this repository, fork it, and clone the forked repo to your local machine:
 
@@ -21,7 +59,7 @@ To prepare for the coding interview using this repository, fork it, and clone th
 git clone https://github.com/yourusername/coding-interview-prep.git
 ```
 
-### Solving problems
+### Solving problems 🧩
 
 You may want to solve problems on your own without reusing my codes. To do so, just remove everything from **Problems** directory.
 
@@ -31,7 +69,7 @@ To count your solved problems, execute the following Shell command:
 ./count_solved
 ```
 
-## Background
+## Background 📚
 
 Plan is based on existing preparation guides:
 
@@ -49,7 +87,7 @@ To stay motivated during preparation:
   - Find someone who is also preparing for interviews and discuss problems together - suggested by Yerzhan Mademikhanov
   - Mock interview each other - suggested by Sherzat Aitbayev
 
-## Overview
+## Overview 👀
 
 **The areas I know:**
 - Software Development - Back-end & Front-end
@@ -70,11 +108,11 @@ To stay motivated during preparation:
    - Operating Systems (Processes and Threads, Scheduling) - *review the course at NU*
    - Computer Networks (especially TCP/IP) - *review the course at NU*
 
-## Plan
+## Plan 📝
 
 I have decided to split my plan into two phases (three months each): summer and fall phases.
 
-### First phase: Summer Time
+### First phase: Summer Time 🏝
 
 **Time to dedicate:**
    - 2 hrs on weekdays, 5 hours on weekends
@@ -101,12 +139,12 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [HackerRank], [Codeforces] - if time left for contests (to keep being interested in solving problems)
    - [Codefights] - suggested by Anuar Serikov
    - [Algorithm Design Canvas] - general guides on how to solve algo problems
-   - [Exercism] - fun practice in own time
-
+   - [Exercism](https://exercism.io/) - fun practice in own time
+ 
 **Comments:**
    - Push solved problems to Github for later usage to refresh memory
 
-### Second Phase: Fall Term
+### Second Phase: Fall Term 🍂
 
 **Time to dedicate:**
    - TBD but less than previous phase due to university studies
@@ -132,7 +170,7 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [Distributed Systems] - **highly recommended** by Alibek Datbayev
    - Watch past interviews of people on [Glassdoor], [CareerCup] - suggested by Ulugbek Adilbekov
 
-## Extra Time
+## Extra Time ⏰
 
 Everything listed here is optional. Even though it is not that realistic to dedicate time to all these, I will try doing it during rest time at leisure :smile:
 
@@ -157,6 +195,18 @@ Everything listed here is optional. Even though it is not that realistic to dedi
 
 **Physical:**
    - Buy a whiteboard/glassboard, put it in front of a mirror - *good investment*
+
+## Show Your Support 🤝
+
+<b> Thank you </b> for taking the time to drop by and check out this revised study plan ☺️
+
+If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions. 
+
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content for [ ] community alike. 
+
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content that connects with as many people as possible. 
+
+Thank you again for your support! 🙏
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)

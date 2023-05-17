@@ -1,4 +1,11 @@
-# RR11 My Study Plan 🤓📚
+# 17/05/23 RR11 My Study Plan 🤓📚
+
+<img width="1293" alt="Screenshot 2023-05-17 at 12 58 22" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/94c1f449-e34e-4271-924a-b0230f6909b0">
+
+<!--
+<img width="943" alt="Screenshot 2023-05-17 at 13 02 02" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/6da298f1-3ac9-4d30-9d93-2c728d773963">
+-->
+
 
 ### Coding Interview Preparation Plan 
 designed by [@ardulat](https://github.com/ardulat), revised by me. 
@@ -49,8 +56,100 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 14 | K Closest Points to Origin                              | Medium     | 30 mins        | Heap                 |
 | 15 | Balanced Binary Tree                                   | Easy       | 15 mins        | Binary Tree          |
 
-**Complete**
-- *RR12 -> My Personal Portfolio
+<details>
+<summary><strong>Week 2 beginning 21/05/23:</strong></summary>
+<br>
+
+| #  | Problem Name                                      | Difficulty | Estimated Time | Topic             |
+|----|--------------------------------------------------|------------|----------------|-------------------|
+| 1  | Linked List Cycle                                | Easy       | 20 mins        | Linked List       |
+| 2  | Implement Queue using Stacks                     | Easy       | 20 mins        | Stack             |
+| 3  | First Bad Version                                | Easy       | 20 mins        | Binary Search     |
+| 4  | Ransom Note                                      | Easy       | 15 mins        | Hash Table        |
+| 5  | Longest Substring Without Repeating Characters   | Medium     | 30 mins        | String            |
+| 6  | 3Sum                                             | Medium     | 30 mins        | Array             |
+| 7  | Binary Tree Level Order Traversal                | Medium     | 20 mins        | Binary Tree       |
+| 8  | Clone Graph                                      | Medium     | 25 mins        | Graph             |
+| 9  | Evaluate Reverse Polish Notation                 | Medium     | 30 mins        | Stack             |
+| 10 | Course Schedule                                  | Medium     | 30 mins        | Graph             |
+| 11 | Implement Trie (Prefix Tree)                     | Medium     | 35 mins        | Trie              |
+| 12 | Coin Change                                      | Medium     | 25 mins        | Dynamic Programming |
+  
+</details>
+
+<details>
+<summary><strong>Week 3 beginning 28/05/23:</strong></summary>
+<br>
+</details>
+
+<!--
+
+<details>
+<summary><strong>Week 4 beginning 04/06/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 5 beginning 04/06/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 6 beginning 11/06/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 7 beginning 18/06/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 8 beginning 25/06/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 9 beginning 02/07/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 10 beginning 09/07/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 11 beginning 16/07/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 12 beginning 23/07/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 13 beginning 30/07/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 14 beginning 06/08/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 15 beginning 13/08/23:</strong></summary>
+<br>
+</details>
+
+<details>
+<summary><strong>Week 16 beginning 20/08/23:</strong></summary>
+<br>
+</details>
+
+-->
 
 ## Getting started 🚀
 
@@ -213,6 +312,7 @@ Every contribution counts and is deeply appreciated as I pursue a path of lifelo
 
 Thank you again for your support! 🙏
 
+<a href="https://www.buymeacoffee.com/ramiro.richmand"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

@@ -1,4 +1,4 @@
-# 17/05/23 RR11 My Study Plan 🤓📚
+# 17/05/23 RR10 My Study Plan 🤓📚
 
 <img width="1293" alt="Screenshot 2023-05-17 at 12 58 22" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/94c1f449-e34e-4271-924a-b0230f6909b0">
 
@@ -12,7 +12,7 @@ designed by [@ardulat](https://github.com/ardulat), revised by me.
 
 This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
-**Time frame**: ~6 month (mid May - mid November)
+**Time frame**: ~4 months (mid May - mid September)
 
 **Goal**: at least 1 offer to big tech company in Europe/US
 
@@ -33,12 +33,14 @@ This is my personal coding interview preparation plan that I hope to follow duri
 -->
 
 ## Upcoming Projects 🎯
-- ***RR10:*** Unconfirmed Title (Work in Progress 🚧)
+- ***RR11:*** Unconfirmed Title (Work in Progress 🚧)
 - ***RR12:*** My Personal Portfolio
 
 ## My Timetable 📅
 
-**Week 1 beginning 14/05/23:**
+<details>
+<summary><strong>Week 1 beginning 21/05/23:</strong></summary>
+<br>
 
 | # | Problem Name                                             | Difficulty | Estimated Time | Topic                |
 |---|---------------------------------------------------------|------------|----------------|----------------------|
@@ -58,8 +60,11 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 14 | K Closest Points to Origin                              | Medium     | 30 mins        | Heap                 |
 | 15 | Balanced Binary Tree                                   | Easy       | 15 mins        | Binary Tree          |
 
+</details>
+
+  
 <details>
-<summary><strong>Week 2 beginning 21/05/23:</strong></summary>
+<summary><strong>Week 2 beginning 28/05/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                      | Difficulty | Estimated Time | Topic             |
@@ -80,74 +85,74 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 <details>
-<summary><strong>Week 3 beginning 28/05/23:</strong></summary>
+<summary><strong>Week 3 beginning 04/06/23:</strong></summary>
 <br>
 </details>
 
 <!--
 
 <details>
-<summary><strong>Week 4 beginning 04/06/23:</strong></summary>
+<summary><strong>Week 4 beginning 11/06/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 5 beginning 04/06/23:</strong></summary>
+<summary><strong>Week 5 beginning 18/06/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 6 beginning 11/06/23:</strong></summary>
+<summary><strong>Week 6 beginning 25/06/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 7 beginning 18/06/23:</strong></summary>
+<summary><strong>Week 7 beginning 02/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 8 beginning 25/06/23:</strong></summary>
+<summary><strong>Week 8 beginning 09/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 9 beginning 02/07/23:</strong></summary>
+<summary><strong>Week 9 beginning 16/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 10 beginning 09/07/23:</strong></summary>
+<summary><strong>Week 10 beginning 23/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 11 beginning 16/07/23:</strong></summary>
+<summary><strong>Week 11 beginning 30/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 12 beginning 23/07/23:</strong></summary>
+<summary><strong>Week 12 beginning 06/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 13 beginning 30/07/23:</strong></summary>
+<summary><strong>Week 13 beginning 13/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 14 beginning 06/08/23:</strong></summary>
+<summary><strong>Week 14 beginning 20/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 15 beginning 13/08/23:</strong></summary>
+<summary><strong>Week 15 beginning 27/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 16 beginning 20/08/23:</strong></summary>
+<summary><strong>Week 16 beginning 03/09/23:</strong></summary>
 <br>
 </details>
 
@@ -222,13 +227,13 @@ I have decided to split my plan into two phases (three months each): summer and 
 ### First phase: Summer Time 🏝
 
 **Time to dedicate:**
-   - 2 hrs on weekdays, 5 hours on weekends
-   - 12 weeks
-   - Total: ( 2 x 5 + 5 x 2 ) x 12 = 240 hrs (*be realistic, 200 hrs will be good too* :wink:)
+   - 10 hrs on weekdays, 2 hours on weekends
+   - 8 weeks
+   - Total: ( 10 + 4 ) x 8 = 112 hrs 
 
 **Objective:** solve > 200 problems on Leetcode! :sunglasses:
 
-**Programming language chosen:** C++
+**Programming language chosen:** Java
 
 **Areas to work on:**
    - Algorithms (e.g. sorting)
@@ -255,6 +260,9 @@ I have decided to split my plan into two phases (three months each): summer and 
 
 **Time to dedicate:**
    - TBD but less than previous phase due to other commitments
+   - 10 hrs on weekdays, 2 hours on weekends
+   - 8 weeks
+   - Total: ( 10 + 4 ) x 8 = 112 hrs, total: 224 hours (*be realistic, 200 hrs will be good too* :wink:)
 
 **Objective:** solve 100 more Leetcode problems! :sunglasses:
 
@@ -310,7 +318,6 @@ Everything listed here is optional. Even though it is not that realistic to dedi
 If you've liked or found this helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions 📬
 
 Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content that connects with as many people as possible 🌎
-
 
 Thank you again for your support! 🙏
 

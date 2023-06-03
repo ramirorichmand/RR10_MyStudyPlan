@@ -6,15 +6,14 @@
 <img width="943" alt="Screenshot 2023-05-17 at 13 02 02" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/6da298f1-3ac9-4d30-9d93-2c728d773963">
 -->
 
-
-### Coding Interview Preparation Plan 
-designed by [@ardulat](https://github.com/ardulat), revised by me. 
+### Coding <!-- Interview --> Preparation Plan 
+<!-- designed by [@ardulat](https://github.com/ardulat), revised by me. -->
 
 This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
 **Time frame**: ~4 months (mid May - mid September)
 
-**Goal**: at least 1 offer to big tech company in Europe/US
+**Goal**: <!-- at least 1 offer to a big tech company in Europe/US --> 🧿
 
 ## Table of Contents
 - [Upcoming Projects 🎯](#upcoming-projects-)
@@ -33,13 +32,13 @@ This is my personal coding interview preparation plan that I hope to follow duri
 -->
 
 ## Upcoming Projects 🎯
-- ***RR11:*** Unconfirmed Title (Work in Progress 🚧)
-- ***RR12:*** My Personal Portfolio
+- ***RR12:*** Unconfirmed Title (Work in Progress 🚧)
+- ***RRXX:*** My Personal Portfolio
 
 ## My Timetable 📅
 
 <details>
-<summary><strong>Week 1 beginning 21/05/23:</strong></summary>
+<summary><strong>Week 1 beginning 28/05/23:</strong></summary>
 <br>
 
 | # | Problem Name                                             | Difficulty | Estimated Time | Topic                |
@@ -64,7 +63,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
   
 <details>
-<summary><strong>Week 2 beginning 28/05/23:</strong></summary>
+<summary><strong>Week 2 beginning 04/06/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                      | Difficulty | Estimated Time | Topic             |
@@ -85,74 +84,74 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 <details>
-<summary><strong>Week 3 beginning 04/06/23:</strong></summary>
+<summary><strong>Week 3 beginning 11/06/23:</strong></summary>
 <br>
 </details>
 
 <!--
 
 <details>
-<summary><strong>Week 4 beginning 11/06/23:</strong></summary>
+<summary><strong>Week 4 beginning 18/06/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 5 beginning 18/06/23:</strong></summary>
+<summary><strong>Week 5 beginning 25/06/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 6 beginning 25/06/23:</strong></summary>
+<summary><strong>Week 6 beginning 02/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 7 beginning 02/07/23:</strong></summary>
+<summary><strong>Week 7 beginning 09/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 8 beginning 09/07/23:</strong></summary>
+<summary><strong>Week 8 beginning 16/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 9 beginning 16/07/23:</strong></summary>
+<summary><strong>Week 9 beginning 23/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 10 beginning 23/07/23:</strong></summary>
+<summary><strong>Week 10 beginning 30/07/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 11 beginning 30/07/23:</strong></summary>
+<summary><strong>Week 11 beginning 06/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 12 beginning 06/08/23:</strong></summary>
+<summary><strong>Week 12 beginning 13/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 13 beginning 13/08/23:</strong></summary>
+<summary><strong>Week 13 beginning 20/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 14 beginning 20/08/23:</strong></summary>
+<summary><strong>Week 14 beginning 27/08/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 15 beginning 27/08/23:</strong></summary>
+<summary><strong>Week 15 beginning 03/09/23:</strong></summary>
 <br>
 </details>
 
 <details>
-<summary><strong>Week 16 beginning 03/09/23:</strong></summary>
+<summary><strong>Week 16 beginning 10/09/23:</strong></summary>
 <br>
 </details>
 

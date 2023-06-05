@@ -13,7 +13,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 **Time frame**: ~4 months (mid May - mid September)
 
-**Goal**: <!-- at least 1 offer to a big tech company in Europe/US --> 🧿
+**Goal**: at least 1 offer to a big tech company in Europe/US 🧿
 
 ## Table of Contents
 - [Upcoming Projects 🎯](#upcoming-projects-)
@@ -86,19 +86,67 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <details>
 <summary><strong>Week 3 beginning 11/06/23:</strong></summary>
 <br>
+
+| #   | Problem                     | Difficulty | Estimated Time | Topic              |
+|-----|-----------------------------|------------|----------------|-----------------------|
+| 1   | Product of Array Except Self | Medium     | 30 mins        | Array                 |
+| 2   | Climbing Stairs             | Easy       | 20 mins        | Dynamic Programming   |
+| 3   | Longest Palindrome          | Easy       | 20 mins        | String                |
+| 4   | Min Stack                   | Medium     | 20 mins        | Stack                 |
+| 5   | Reverse Linked List         | Easy       | 20 mins        | Linked List           |
+| 6   | Validate Binary Search Tree | Medium     | 20 mins        | Binary Search Tree    |
+| 7   | Number of Islands           | Medium     | 25 mins        | Graph                 |
+| 8   | Rotting Oranges             | Medium     | 30 mins        | Graph                 |
+| 9   | Search in Rotated Sorted Array | Medium  | 30 mins        | Binary Search         |
+| 10  | Combination Sum             | Medium     | 30 mins        | Array                 |
+| 11  | Permutations                | Medium     | 30 mins        | Recursion             |
+| 12  | Merge Intervals             | Medium     | 30 mins        | Array                 |
+
 </details>
 
-<!--
+
 
 <details>
 <summary><strong>Week 4 beginning 18/06/23:</strong></summary>
 <br>
+
+| #   | Problem                               | Difficulty | Estimated Time | Topic      |
+|-----|---------------------------------------|------------|----------------|---------------|
+| 1   | Lowest Common Ancestor of a Binary Tree | Medium     | 25 mins        | Binary Tree   |
+| 2   | Time Based Key-Value Store             | Medium     | 35 mins        | Binary Search |
+| 3   | Minimum Window Substring               | Hard       | 30 mins        | String        |
+| 4   | Serialize and Deserialize Binary Tree  | Hard       | 40 mins        | Binary Tree   |
+| 5   | Trapping Rain Water                    | Hard       | 35 mins        | Stack         |
+| 6   | Find Median from Data Stream           | Hard       | 30 mins        | Heap          |
+| 7   | Majority Element                       | Easy       | 20 mins        | Array         |
+| 8   | Add Binary                             | Easy       | 15 mins        | Binary        |
+| 9   | Diameter of Binary Tree                | Easy       | 30 mins        | Binary Tree   |
+| 10  | Middle of the Linked List              | Easy       | 20 mins        | Linked List   |
+
 </details>
+
+
 
 <details>
 <summary><strong>Week 5 beginning 25/06/23:</strong></summary>
 <br>
+
+| #   | Problem                         | Difficulty | Estimated Time | Topic            |
+|-----|---------------------------------|------------|----------------|---------------------|
+| 1   | Accounts Merge                  | Medium     | 30 mins        | Graph               |
+| 2   | Sort Colors                     | Medium     | 25 mins        | Array               |
+| 3   | Word Break                      | Medium     | 30 mins        | Trie                |
+| 4   | Partition Equal Subset Sum      | Medium     | 30 mins        | Dynamic Programming |
+| 5   | String to Integer (atoi)        | Medium     | 25 mins        | String              |
+| 6   | Spiral Matrix                   | Medium     | 25 mins        | Matrix              |
+| 7   | Subsets                         | Medium     | 30 mins        | Recursion           |
+| 8   | Binary Tree Right Side View     | Medium     | 20 mins        | Binary Tree         |
+| 9   | Longest Palindromic Substring   | Medium     | 25 mins        | String              |
+| 10  | Word Ladder                     | Hard       | 45 mins        | Graph               |
+
 </details>
+
+<!--
 
 <details>
 <summary><strong>Week 6 beginning 02/07/23:</strong></summary>

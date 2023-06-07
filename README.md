@@ -174,31 +174,96 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!--
-
 <details>
 <summary><strong>Week 7 beginning 09/07/23:</strong></summary>
 <br>
+
+| #  | Problem Name                       | Difficulty                                                                                              | Estimated Time | Topic                 |
+|----|-----------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------------|
+| 1  | Word Search                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                 |
+| 2  | Find All Anagrams in a String      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | String                |
+| 3  | Minimum Height Trees               | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                 |
+| 4  | Task Scheduler                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 35 mins        | Heap                  |
+| 5  | LRU Cache                          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Linked List           |
+| 6  | Kth Smallest Element in a BST      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Binary Search Tree    |
+| 7  | Daily Temperatures                | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Stack                 |
+| 8  | House Robber                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Dynamic Programming   |
+| 9  | Meeting Rooms                      | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Array                 |
+| 10 | Roman to Integer                   | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Math                  |
+| 11 | Backspace String Compare           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Stack                 |
+
+
 </details>
 
 <details>
 <summary><strong>Week 8 beginning 16/07/23:</strong></summary>
 <br>
+
+| #  | Problem Name                              | Difficulty                                                                                              | Estimated Time | Topic                 |
+|----|------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------------|
+| 1  | Gas Station                              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Array                 |
+| 2  | Next Permutation                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Recursion             |
+| 3  | Valid Sudoku                             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 35 mins        | Matrix                |
+| 4  | Group Anagrams                           | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | String                |
+| 5  | Maximum Product Subarray                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Dynamic Programming   |
+| 6  | Design Add and Search Words Data Structure| ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 35 mins        | Trie                  |
+| 7  | Pacific Atlantic Water Flow              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                 |
+| 8  | Remove Nth Node From End of List          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Linked List           |
+| 9  | Shortest Path to Get Food                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                 |
+| 10 | Find the Duplicate Number                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Binary                |
+
+
 </details>
 
 <details>
 <summary><strong>Week 9 beginning 23/07/23:</strong></summary>
 <br>
+
+| #  | Problem Name                        | Difficulty                                                                                         | Estimated Time | Topic                |
+|----|------------------------------------|----------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Top K Frequent Words                | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Heap                 |
+| 2  | Binary Tree Maximum Path Sum        | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                   | 35 mins        | Binary Tree          |
+| 3  | Maximum Frequency Stack             | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                   | 40 mins        | Stack                |
+| 4  | Counting Bits                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 15 mins        | Binary               |
+| 5  | Longest Increasing Subsequence      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Dynamic Programming  |
+| 6  | Graph Valid Tree                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Graph                |
+| 7  | Course Schedule II                  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 35 mins        | Graph                |
+| 8  | Swap Nodes in Pairs                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Linked List          |
+| 9  | Path Sum II                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Binary Tree          |
+| 10 | Longest Consecutive Sequence        | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Array                |
+
+
 </details>
 
 <details>
 <summary><strong>Week 10 beginning 30/07/23:</strong></summary>
 <br>
+
+| #  | Problem Name                             | Difficulty                                                                                         | Estimated Time | Topic                |
+|----|-----------------------------------------|----------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Rotate Array                            | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Array                |
+| 2  | Odd Even Linked List                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Linked List          |
+| 3  | Decode String                           | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Stack                |
+| 4  | Contiguous Array                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Array                |
+| 5  | Maximum Width of Binary Tree             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 20 mins        | Binary Tree          |
+| 6  | Find K Closest Elements                  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Heap                 |
+| 7  | Longest Repeating Character Replacement  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | String               |
+| 8  | Median of Two Sorted Arrays              | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                   | 40 mins        | Binary Search        |
+| 9  | Same Tree                                | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 20 mins        | Binary Tree          |
+| 10 | Number of 1 Bits                         | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 15 mins        | Binary               |
+| 11 | Longest Common Prefix                    | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 20 mins        | String               |
+
+
 </details>
+
+<!--
 
 <details>
 <summary><strong>Week 11 beginning 06/08/23:</strong></summary>
 <br>
+
+
+
 </details>
 
 <details>

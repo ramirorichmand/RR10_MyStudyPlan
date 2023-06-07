@@ -43,23 +43,24 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <summary><strong>Week 1 beginning 28/05/23:</strong></summary>
 <br>
 
-| # | Problem Name                                             | Difficulty | Estimated Time | Topic                |
-|---|---------------------------------------------------------|------------|----------------|----------------------|
-| 1 | Two Sum                                                 | Easy       | 15 mins        | Array                |
-| 2 | Valid Parentheses                                       | Easy       | 20 mins        | Stack                |
-| 3 | Merge Two Sorted Lists                                  | Easy       | 20 mins        | Linked List          |
-| 4 | Best Time to Buy and Sell Stock                         | Easy       | 20 mins        | Array                |
-| 5 | Valid Palindrome                                        | Easy       | 15 mins        | String               |
-| 6 | Invert Binary Tree                                      | Easy       | 15 mins        | Binary Tree          |
-| 7 | Valid Anagram                                           | Easy       | 15 mins        | String               |
-| 8 | Binary Search                                           | Easy       | 15 mins        | Binary Search        |
-| 9 | Flood Fill                                              | Easy       | 20 mins        | Graph                |
-| 10 | Maximum Subarray                                       | Medium     | 20 mins        | Dynamic Programming  |
-| 11 | Lowest Common Ancestor of a Binary Search Tree          | Easy       | 20 mins        | Binary Search Tree   |
-| 12 | Insert Interval                                        | Medium     | 25 mins        | Array                |
-| 13 | 01 Matrix                                              | Medium     | 30 mins        | Graph                |
-| 14 | K Closest Points to Origin                              | Medium     | 30 mins        | Heap                 |
-| 15 | Balanced Binary Tree                                   | Easy       | 15 mins        | Binary Tree          |
+| #  | Problem Name                                             | Difficulty                                                                                              | Estimated Time | Topic                |
+|----|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Two Sum                                                 | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Array                |
+| 2  | Valid Parentheses                                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Stack                |
+| 3  | Merge Two Sorted Lists                                  | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Linked List          |
+| 4  | Best Time to Buy and Sell Stock                         | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Array                |
+| 5  | Valid Palindrome                                        | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | String               |
+| 6  | Invert Binary Tree                                      | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Binary Tree          |
+| 7  | Valid Anagram                                           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | String               |
+| 8  | Binary Search                                           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Binary Search        |
+| 9  | Flood Fill                                              | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Graph                |
+| 10 | Maximum Subarray                                        | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Dynamic Programming  |
+| 11 | Lowest Common Ancestor of a Binary Search Tree           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Binary Search Tree   |
+| 12 | Insert Interval                                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Array                |
+| 13 | 01 Matrix                                               | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                |
+| 14 | K Closest Points to Origin                              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Heap                 |
+| 15 | Balanced Binary Tree                                    | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Binary Tree          |
+
 
 </details>
 
@@ -68,20 +69,21 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <summary><strong>Week 2 beginning 04/06/23:</strong></summary>
 <br>
 
-| #  | Problem Name                                      | Difficulty | Estimated Time | Topic             |
-|----|--------------------------------------------------|------------|----------------|-------------------|
-| 1  | Linked List Cycle                                | Easy       | 20 mins        | Linked List       |
-| 2  | Implement Queue using Stacks                     | Easy       | 20 mins        | Stack             |
-| 3  | First Bad Version                                | Easy       | 20 mins        | Binary Search     |
-| 4  | Ransom Note                                      | Easy       | 15 mins        | Hash Table        |
-| 5  | Longest Substring Without Repeating Characters   | Medium     | 30 mins        | String            |
-| 6  | 3Sum                                             | Medium     | 30 mins        | Array             |
-| 7  | Binary Tree Level Order Traversal                | Medium     | 20 mins        | Binary Tree       |
-| 8  | Clone Graph                                      | Medium     | 25 mins        | Graph             |
-| 9  | Evaluate Reverse Polish Notation                 | Medium     | 30 mins        | Stack             |
-| 10 | Course Schedule                                  | Medium     | 30 mins        | Graph             |
-| 11 | Implement Trie (Prefix Tree)                     | Medium     | 35 mins        | Trie              |
-| 12 | Coin Change                                      | Medium     | 25 mins        | Dynamic Programming |
+| #  | Problem Name                                      | Difficulty                                                                                              | Estimated Time | Topic             |
+|----|--------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-------------------|
+| 1  | Linked List Cycle                                | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Linked List       |
+| 2  | Implement Queue using Stacks                     | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Stack             |
+| 3  | First Bad Version                                | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Binary Search     |
+| 4  | Ransom Note                                      | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Hash Table        |
+| 5  | Longest Substring Without Repeating Characters   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | String            |
+| 6  | 3Sum                                             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Array             |
+| 7  | Binary Tree Level Order Traversal                | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Binary Tree       |
+| 8  | Clone Graph                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Graph             |
+| 9  | Evaluate Reverse Polish Notation                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Stack             |
+| 10 | Course Schedule                                  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph             |
+| 11 | Implement Trie (Prefix Tree)                     | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 35 mins        | Trie              |
+| 12 | Coin Change                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Dynamic Programming |
+
   
 </details>
 
@@ -89,20 +91,21 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <summary><strong>Week 3 beginning 11/06/23:</strong></summary>
 <br>
 
-| #   | Problem                     | Difficulty | Estimated Time | Topic              |
-|-----|-----------------------------|------------|----------------|-----------------------|
-| 1   | Product of Array Except Self | Medium     | 30 mins        | Array                 |
-| 2   | Climbing Stairs             | Easy       | 20 mins        | Dynamic Programming   |
-| 3   | Longest Palindrome          | Easy       | 20 mins        | String                |
-| 4   | Min Stack                   | Medium     | 20 mins        | Stack                 |
-| 5   | Reverse Linked List         | Easy       | 20 mins        | Linked List           |
-| 6   | Validate Binary Search Tree | Medium     | 20 mins        | Binary Search Tree    |
-| 7   | Number of Islands           | Medium     | 25 mins        | Graph                 |
-| 8   | Rotting Oranges             | Medium     | 30 mins        | Graph                 |
-| 9   | Search in Rotated Sorted Array | Medium  | 30 mins        | Binary Search         |
-| 10  | Combination Sum             | Medium     | 30 mins        | Array                 |
-| 11  | Permutations                | Medium     | 30 mins        | Recursion             |
-| 12  | Merge Intervals             | Medium     | 30 mins        | Array                 |
+| #   | Problem                     | Difficulty                                                                                              | Estimated Time | Topic                |
+|-----|-----------------------------|---------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1   | Product of Array Except Self | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Array                |
+| 2   | Climbing Stairs             | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Dynamic Programming  |
+| 3   | Longest Palindrome          | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | String               |
+| 4   | Min Stack                   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Stack                |
+| 5   | Reverse Linked List         | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Linked List          |
+| 6   | Validate Binary Search Tree | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Binary Search Tree   |
+| 7   | Number of Islands           | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Graph                |
+| 8   | Rotting Oranges             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                |
+| 9   | Search in Rotated Sorted Array | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                | 30 mins        | Binary Search        |
+| 10  | Combination Sum             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Array                |
+| 11  | Permutations                | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Recursion            |
+| 12  | Merge Intervals             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Array                |
+
 
 </details>
 
@@ -112,18 +115,19 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <summary><strong>Week 4 beginning 18/06/23:</strong></summary>
 <br>
 
-| #   | Problem                               | Difficulty | Estimated Time | Topic      |
-|-----|---------------------------------------|------------|----------------|---------------|
-| 1   | Lowest Common Ancestor of a Binary Tree | Medium     | 25 mins        | Binary Tree   |
-| 2   | Time Based Key-Value Store             | Medium     | 35 mins        | Binary Search |
-| 3   | Minimum Window Substring               | Hard       | 30 mins        | String        |
-| 4   | Serialize and Deserialize Binary Tree  | Hard       | 40 mins        | Binary Tree   |
-| 5   | Trapping Rain Water                    | Hard       | 35 mins        | Stack         |
-| 6   | Find Median from Data Stream           | Hard       | 30 mins        | Heap          |
-| 7   | Majority Element                       | Easy       | 20 mins        | Array         |
-| 8   | Add Binary                             | Easy       | 15 mins        | Binary        |
-| 9   | Diameter of Binary Tree                | Easy       | 30 mins        | Binary Tree   |
-| 10  | Middle of the Linked List              | Easy       | 20 mins        | Linked List   |
+| #   | Problem                               | Difficulty                                                                                              | Estimated Time | Topic           |
+|-----|---------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------|
+| 1   | Lowest Common Ancestor of a Binary Tree | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Binary Tree     |
+| 2   | Time Based Key-Value Store             | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 35 mins        | Binary Search   |
+| 3   | Minimum Window Substring               | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                        | 30 mins        | String          |
+| 4   | Serialize and Deserialize Binary Tree  | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                        | 40 mins        | Binary Tree     |
+| 5   | Trapping Rain Water                    | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                        | 35 mins        | Stack           |
+| 6   | Find Median from Data Stream           | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                        | 30 mins        | Heap            |
+| 7   | Majority Element                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Array           |
+| 8   | Add Binary                             | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Binary          |
+| 9   | Diameter of Binary Tree                | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 30 mins        | Binary Tree     |
+| 10  | Middle of the Linked List              | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 20 mins        | Linked List     |
+
 
 </details>
 
@@ -156,16 +160,16 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 | # | Problem | Difficulty | Estimated Time | Topic |
 |---|---------|------------|----------------|-------|
-| 1 | Basic Calculator | ![Hard](https://img.shields.io/badge/-Hard-red) | 40 mins | Stack |
-| 2 | Maximum Profit in Job Scheduling | ![Hard](https://img.shields.io/badge/-Hard-red) | 45 mins | Binary Search |
-| 3 | Merge k Sorted Lists | ![Hard](https://img.shields.io/badge/-Hard-red) | 30 mins | Heap |
-| 4 | Largest Rectangle in Histogram | ![Hard](https://img.shields.io/badge/-Hard-red) | 35 mins | Stack |
-| 5 | Maximum Depth of Binary Tree | ![Easy](https://img.shields.io/badge/-Easy-success) | 15 mins | Binary Tree |
-| 6 | Contains Duplicate | ![Easy](https://img.shields.io/badge/-Easy-success) | 15 mins | Array |
-| 7 | Unique Paths | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 20 mins | Dynamic Programming |
-| 8 | Construct Binary Tree from Preorder and Inorder Traversal | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 25 mins | Binary Tree |
-| 9 | Container With Most Water | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 35 mins | Array |
-| 10 | Letter Combinations of a Phone Number | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 30 mins | Recursion |
+| 1 | Basic Calculator | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 40 mins | Stack |
+| 2 | Maximum Profit in Job Scheduling | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 45 mins | Binary Search |
+| 3 | Merge k Sorted Lists | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 30 mins | Heap |
+| 4 | Largest Rectangle in Histogram | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | 35 mins | Stack |
+| 5 | Maximum Depth of Binary Tree | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 15 mins | Binary Tree |
+| 6 | Contains Duplicate | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square) | 15 mins | Array |
+| 7 | Unique Paths | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 20 mins | Dynamic Programming |
+| 8 | Construct Binary Tree from Preorder and Inorder Traversal | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 25 mins | Binary Tree |
+| 9 | Container With Most Water | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 35 mins | Array |
+| 10 | Letter Combinations of a Phone Number | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 30 mins | Recursion |
 
 
 </details>

@@ -133,18 +133,19 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <summary><strong>Week 5 beginning 25/06/23:</strong></summary>
 <br>
 
-| #   | Problem                         | Difficulty | Estimated Time | Topic            |
-|-----|---------------------------------|------------|----------------|---------------------|
-| 1   | Accounts Merge                  | Medium     | 30 mins        | Graph               |
-| 2   | Sort Colors                     | Medium     | 25 mins        | Array               |
-| 3   | Word Break                      | Medium     | 30 mins        | Trie                |
-| 4   | Partition Equal Subset Sum      | Medium     | 30 mins        | Dynamic Programming |
-| 5   | String to Integer (atoi)        | Medium     | 25 mins        | String              |
-| 6   | Spiral Matrix                   | Medium     | 25 mins        | Matrix              |
-| 7   | Subsets                         | Medium     | 30 mins        | Recursion           |
-| 8   | Binary Tree Right Side View     | Medium     | 20 mins        | Binary Tree         |
-| 9   | Longest Palindromic Substring   | Medium     | 25 mins        | String              |
-| 10  | Word Ladder                     | Hard       | 45 mins        | Graph               |
+| #   | Problem                         | Difficulty                                                                                              | Estimated Time | Topic                |
+|-----|---------------------------------|---------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1   | Accounts Merge                  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Graph                |
+| 2   | Sort Colors                     | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Array                |
+| 3   | Word Break                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Trie                 |
+| 4   | Partition Equal Subset Sum      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Dynamic Programming  |
+| 5   | String to Integer (atoi)        | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | String               |
+| 6   | Spiral Matrix                   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | Matrix               |
+| 7   | Subsets                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 30 mins        | Recursion            |
+| 8   | Binary Tree Right Side View     | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Binary Tree          |
+| 9   | Longest Palindromic Substring   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 25 mins        | String               |
+| 10  | Word Ladder                     | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                        | 45 mins        | Graph                |
+
 
 </details>
 

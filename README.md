@@ -256,42 +256,125 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!--
-
 <details>
 <summary><strong>Week 11 beginning 06/08/23:</strong></summary>
 <br>
 
+| #  | Problem Name                                     | Difficulty                                                                                         | Estimated Time | Topic                |
+|----|-------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Inorder Successor in BST                        | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Binary Search Tree   |
+| 2  | Jump Game                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 20 mins        | Dynamic Programming  |
+| 3  | Add Two Numbers                                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Linked List          |
+| 4  | Generate Parentheses                            | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Recursion            |
+| 5  | Sort List                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Linked List          |
+| 6  | Number of Connected Components in an Undirected Graph | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Graph                |
+| 7  | Minimum Knight Moves                            | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 35 mins        | Graph                |
+| 8  | Subarray Sum Equals K                           | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 35 mins        | Array                |
+| 9  | Asteroid Collision                              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 30 mins        | Stack                |
+| 10 | Random Pick with Weight                          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Math                 |
 
 
 </details>
 
+
 <details>
 <summary><strong>Week 12 beginning 13/08/23:</strong></summary>
 <br>
+
+| #  | Problem Name                                       | Difficulty                                                                                           | Estimated Time | Topic                |
+|----|---------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Kth Largest Element in an Array                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Heap                 |
+| 2  | Longest Increasing Path in a Matrix                | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 40 mins        | Graph                |
+| 3  | Longest Valid Parentheses                          | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 35 mins        | Stack                |
+| 4  | Design In-Memory File System                       | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 40 mins        | Trie                 |
+| 5  | Employee Free Time                                | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 35 mins        | Array                |
+| 6  | Single Number                                     | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                  | 15 mins        | Binary               |
+| 7  | Palindrome Linked List                            | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                  | 20 mins        | Linked List          |
+| 8  | Move Zeroes                                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                  | 20 mins        | Array                |
+| 9  | Maximal Square                                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Dynamic Programming  |
+| 10 | Rotate Image                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Matrix               |
+
+
 </details>
 
 <details>
 <summary><strong>Week 13 beginning 20/08/23:</strong></summary>
 <br>
+
+| #  | Problem Name                                          | Difficulty                                                                                           | Estimated Time | Topic                |
+|----|------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Binary Tree Zigzag Level Order Traversal              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Binary Tree          |
+| 2  | Design Hit Counter                                   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Queue                |
+| 3  | Path Sum III                                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 35 mins        | Binary Tree          |
+| 4  | Pow(x, n)                                            | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | Math                 |
+| 5  | Search a 2D Matrix                                   | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Binary Search        |
+| 6  | Largest Number                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | String               |
+| 7  | Word Search II                                       | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 40 mins        | Graph                |
+| 8  | Alien Dictionary                                     | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 45 mins        | Graph                |
+| 9  | Bus Routes                                           | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 45 mins        | Graph                |
+
+
 </details>
 
 <details>
 <summary><strong>Week 14 beginning 27/08/23:</strong></summary>
 <br>
+
+| #  | Problem Name                                          | Difficulty                                                                                           | Estimated Time | Topic                |
+|----|------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Symmetric Tree                                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 20 mins        | Binary Tree          |
+| 2  | Missing Number                                       | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 15 mins        | Binary               |
+| 3  | Decode Ways                                          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Dynamic Programming  |
+| 4  | Meeting Rooms II                                     | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Array                |
+| 5  | Reverse Integer                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Math                 |
+| 6  | Set Matrix Zeroes                                    | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Matrix               |
+| 7  | Reorder List                                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Linked List          |
+| 8  | Encode and Decode Strings                            | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | String               |
+| 9  | Cheapest Flights Within K Stops                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 45 mins        | Graph                |
+| 10 | All Nodes Distance K in Binary Tree                  | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Binary Tree          |
+| 11 | Sliding Window Maximum                               | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 35 mins        | Array                |
+
+
 </details>
 
 <details>
 <summary><strong>Week 15 beginning 03/09/23:</strong></summary>
 <br>
+
+| #  | Problem Name                                      | Difficulty                                                                                           | Estimated Time | Topic                |
+|----|--------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Palindrome Number                                 | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 15 mins        | Math                 |
+| 2  | Convert Sorted Array to Binary Search Tree         | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 20 mins        | Binary Search Tree   |
+| 3  | Reverse Bits                                      | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 15 mins        | Binary               |
+| 4  | Subtree of Another Tree                           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 20 mins        | Binary Tree          |
+| 5  | Squares of a Sorted Array                         | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                | 20 mins        | Array                |
+| 6  | 3Sum Closest                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Array                |
+| 7  | Rotate List                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Linked List          |
+| 8  | Find Minimum in Rotated Sorted Array              | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Binary Search        |
+| 9  | Basic Calculator II                               | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 30 mins        | Stack                |
+| 10 | Combination Sum IV                                | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 35 mins        | Dynamic Programming  |
+| 11 | Insert Delete GetRandom O(1)                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | Hash Table           |
+| 12 | Non-overlapping Intervals                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | Array                |
+
+
 </details>
 
 <details>
 <summary><strong>Week 16 beginning 10/09/23:</strong></summary>
 <br>
+
+| #  | Problem Name                                      | Difficulty                                                                                           | Estimated Time | Topic                |
+|----|--------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------|----------------------|
+| 1  | Palindrome Pairs                                 | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | String               |
+| 2  | Reverse Nodes in k-Group                         | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 35 mins        | Linked List          |
+| 3  | Sudoku Solver                                    | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | Matrix               |
+| 4  | First Missing Positive                           | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 35 mins        | Hash Table           |
+| 5  | N-Queens                                         | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | Recursion            |
+| 6  | Smallest Range Covering Elements from K Lists     | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | Heap                 |
+
+
 </details>
 
--->
 <!--
 ## Getting started 🚀
 

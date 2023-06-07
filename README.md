@@ -159,8 +159,8 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 2 | Maximum Profit in Job Scheduling | ![Hard](https://img.shields.io/badge/-Hard-red) | 45 mins | Binary Search |
 | 3 | Merge k Sorted Lists | ![Hard](https://img.shields.io/badge/-Hard-red) | 30 mins | Heap |
 | 4 | Largest Rectangle in Histogram | ![Hard](https://img.shields.io/badge/-Hard-red) | 35 mins | Stack |
-| 5 | Maximum Depth of Binary Tree | ![Easy](https://img.shields.io/badge/-Easy-green) | 15 mins | Binary Tree |
-| 6 | Contains Duplicate | ![Easy](https://img.shields.io/badge/-Easy-green) | 15 mins | Array |
+| 5 | Maximum Depth of Binary Tree | ![Easy](https://img.shields.io/badge/-Easy-success) | 15 mins | Binary Tree |
+| 6 | Contains Duplicate | ![Easy](https://img.shields.io/badge/-Easy-success) | 15 mins | Array |
 | 7 | Unique Paths | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 20 mins | Dynamic Programming |
 | 8 | Construct Binary Tree from Preorder and Inorder Traversal | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 25 mins | Binary Tree |
 | 9 | Container With Most Water | ![Medium](https://img.shields.io/badge/-Medium-yellow) | 35 mins | Array |

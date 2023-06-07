@@ -37,6 +37,8 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 ## My Timetable 📅
 
+<!-- colour code difficult: easy-green, medium-yellow, hard-red -->
+
 <details>
 <summary><strong>Week 1 beginning 28/05/23:</strong></summary>
 <br>
@@ -146,12 +148,27 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!--
 
 <details>
 <summary><strong>Week 6 beginning 02/07/23:</strong></summary>
 <br>
+
+| # | Problem | Difficulty | Estimated Time | Topic |
+|---|---------|------------|----------------|-------|
+| 1 | Basic Calculator | <span style="color:red">Hard</span> | 40 mins | Stack |
+| 2 | Maximum Profit in Job Scheduling | <span style="color:red">Hard</span> | 45 mins | Binary Search |
+| 3 | Merge k Sorted Lists | <span style="color:red">Hard</span> | 30 mins | Heap |
+| 4 | Largest Rectangle in Histogram | <span style="color:red">Hard</span> | 35 mins | Stack |
+| 5 | Maximum Depth of Binary Tree | <span style="color:green">Easy</span> | 15 mins | Binary Tree |
+| 6 | Contains Duplicate | <span style="color:green">Easy</span> | 15 mins | Array |
+| 7 | Unique Paths | <span style="color:yellow">Medium</span> | 20 mins | Dynamic Programming |
+| 8 | Construct Binary Tree from Preorder and Inorder Traversal | <span style="color:yellow">Medium</span> | 25 mins | Binary Tree |
+| 9 | Container With Most Water | <span style="color:yellow">Medium</span> | 35 mins | Array |
+
+
 </details>
+
+<!--
 
 <details>
 <summary><strong>Week 7 beginning 09/07/23:</strong></summary>

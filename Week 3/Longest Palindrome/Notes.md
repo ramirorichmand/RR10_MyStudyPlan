@@ -8,8 +8,8 @@ In this problem, you are given a string `s` consisting of lowercase or uppercase
 
 To solve this problem, we can use the following approach:
 
-1. Initialize a variable `count` to 0. This variable will keep track of the count of characters that have an odd frequency in the string.
-2. Initialize an array `charCount` of size 52 (26 lowercase letters + 26 uppercase letters) to store the frequency of each character in the string. Initialize all elements of the array to 0.
+1. initialise a variable `count` to 0. This variable will keep track of the count of characters that have an odd frequency in the string.
+2. initialise an array `charCount` of size 52 (26 lowercase letters + 26 uppercase letters) to store the frequency of each character in the string. initialise all elements of the array to 0.
 3. Iterate over each character `c` in the string `s`.
      - If `c` is a lowercase letter, increment `charCount[c - 'a']` by 1.
      - If `c` is an uppercase letter, increment `charCount[c - 'A' + 26]` by 1.

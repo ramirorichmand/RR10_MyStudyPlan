@@ -15,7 +15,7 @@ To solve this problem, you can use a HashMap to store the key-value pairs, where
 
 Here's how you can approach it:
 
-1. Initialize an empty HashMap to store the key-value pairs.
+1. initialise an empty HashMap to store the key-value pairs.
 2. Implement the `set` operation as follows:
    - If the key is not present in the HashMap, create a new list and add the pair `(timestamp, value)` to it. Then, add the key and the list to the HashMap.
    - If the key is already present, retrieve the list from the HashMap and add the pair `(timestamp, value)` to it.

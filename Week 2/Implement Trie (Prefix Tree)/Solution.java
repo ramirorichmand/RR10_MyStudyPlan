@@ -16,7 +16,7 @@ class Trie {
 	}
 
 	private TrieNode root;
-    /** Initialize your data structure here. */
+    /** initialise your data structure here. */
     public Trie() {
     root = new TrieNode();
 	}

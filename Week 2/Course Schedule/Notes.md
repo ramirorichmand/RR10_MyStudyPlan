@@ -11,8 +11,8 @@ Your task is to determine if it is possible to finish all the courses, i.e., the
 To solve this problem, we can use a graph-based approach and perform a topological sort. Here are the steps:
 
 1. Build an adjacency list representation of the courses and their prerequisites using the `prerequisites` array.
-2. Initialize an array `visited` to keep track of the visited nodes.
-3. Initialize an array `inDegree` to store the in-degree of each course. The in-degree of a course is the number of prerequisite courses it has.
+2. initialise an array `visited` to keep track of the visited nodes.
+3. initialise an array `inDegree` to store the in-degree of each course. The in-degree of a course is the number of prerequisite courses it has.
 4. Iterate through all the courses and their prerequisites, updating the in-degree array accordingly.
 5. Create a queue and add all the courses with an in-degree of 0 to the queue.
 6. While the queue is not empty, do the following:

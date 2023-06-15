@@ -14,8 +14,8 @@ Every minute, any fresh orange that is 4-directionally adjacent to a rotten oran
 
 To solve this problem, you can use the following approach:
 
-1. Initialize a queue to store the position of rotten oranges.
-2. Initialize variables `freshOranges` and `minutes` to keep track of the number of fresh oranges and the number of minutes passed, respectively.
+1. initialise a queue to store the position of rotten oranges.
+2. initialise variables `freshOranges` and `minutes` to keep track of the number of fresh oranges and the number of minutes passed, respectively.
 3. Iterate over the grid and perform the following steps:
    - If the current cell contains a rotten orange (value 2), add its position to the queue.
    - If the current cell contains a fresh orange (value 1), increment `freshOranges` by 1.

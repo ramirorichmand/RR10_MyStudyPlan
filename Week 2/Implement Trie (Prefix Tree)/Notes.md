@@ -16,7 +16,7 @@ To solve this problem, we can implement the Trie data structure using a class. H
 2. Inside the `Trie` class, create an inner class named `TrieNode` to represent each node in the Trie. Each `TrieNode` should contain the following properties:
    - A boolean flag `isEndOfWord` to indicate if the current node represents the end of a word.
    - An array `children` of size 26 (to represent the lowercase English letters), where each element is either `null` or a reference to another `TrieNode`.
-3. Initialize the root of the Trie as an empty `TrieNode`.
+3. initialise the root of the Trie as an empty `TrieNode`.
 4. Implement the `insert` operation as follows:
    - Start from the root node.
    - For each character in the word, check if the current node has a child corresponding to that character. If not, create a new child node for that character.

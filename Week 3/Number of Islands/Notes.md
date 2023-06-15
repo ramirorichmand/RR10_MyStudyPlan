@@ -10,7 +10,7 @@ An island is surrounded by water and is formed by connecting adjacent lands hori
 
 To solve this problem, you can use the following approach:
 
-1. Initialize a variable `numIslands` to store the count of islands.
+1. initialise a variable `numIslands` to store the count of islands.
 2. Iterate over each cell in the grid.
 3. If the current cell is '1', perform a depth-first search (DFS) to explore the island.
    - In the DFS, mark the current cell as visited by changing its value to '0'.

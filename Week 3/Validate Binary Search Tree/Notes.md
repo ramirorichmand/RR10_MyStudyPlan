@@ -13,7 +13,7 @@ A valid BST is defined as follows:
 
 To solve this problem, you can use the following approach:
 
-1. Initialize a helper function `isValidBSTHelper(node, min_val, max_val)` that takes a node, along with the minimum and maximum values that the node's key can take.
+1. initialise a helper function `isValidBSTHelper(node, min_val, max_val)` that takes a node, along with the minimum and maximum values that the node's key can take.
 2. Base Case: If the node is null, return `True` since an empty tree is considered a valid BST.
 3. Recursive Steps:
    - Check if the node's key is within the range defined by `min_val` and `max_val`. If not, return `False` as it violates the BST property.

@@ -8,7 +8,7 @@ In this problem, you are given the head of a singly linked list. Your task is to
 
 To solve this problem, you can use the following approach:
 
-1. Initialize three pointers: `prev`, `curr`, and `next`.
+1. initialise three pointers: `prev`, `curr`, and `next`.
    - `prev` will initially be set to `null`.
    - `curr` will be set to the `head` of the linked list.
    - `next` will be set to the `next` node of `curr`.

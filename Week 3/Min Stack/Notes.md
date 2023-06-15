@@ -14,7 +14,7 @@ The goal is to implement a solution with O(1) time complexity for each operation
 
 To solve this problem, we can use the following approach:
 
-1. Initialize two stacks: `mainStack` and `minStack`. `mainStack` will store all the elements, while `minStack` will keep track of the minimum element at each step.
+1. initialise two stacks: `mainStack` and `minStack`. `mainStack` will store all the elements, while `minStack` will keep track of the minimum element at each step.
 2. When pushing an element `val` onto the stack, push it onto `mainStack` as usual.
 3. If `minStack` is empty or `val` is less than or equal to the top element of `minStack`, push `val` onto `minStack` as well. This ensures that `minStack` always contains the minimum element at the top.
 4. When popping an element from the stack, pop it from both `mainStack` and `minStack`.

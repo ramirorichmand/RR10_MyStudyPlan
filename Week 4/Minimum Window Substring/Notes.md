@@ -15,9 +15,9 @@ Here's how you can approach it:
 1. Create two hash maps: `required` and `window`.
    - `required` stores the count of each character in `t`.
    - `window` stores the count of each character in the current window of `s`.
-2. Initialize two pointers, `left` and `right`, to track the window boundaries.
-3. Initialize `formed` to keep track of the characters in `t` that are present in the current window.
-4. Initialize `minLen` and `minStart` to store the minimum window length and its starting index.
+2. initialise two pointers, `left` and `right`, to track the window boundaries.
+3. initialise `formed` to keep track of the characters in `t` that are present in the current window.
+4. initialise `minLen` and `minStart` to store the minimum window length and its starting index.
 5. Move the `right` pointer to expand the window until it includes all the characters from `t`.
    - Increment the count of the character at the `right` pointer in the `window` hash map.
    - If the count of this character in `window` is equal to or greater than its count in `required`, increment `formed` by 1.

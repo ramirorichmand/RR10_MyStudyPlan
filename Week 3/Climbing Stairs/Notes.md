@@ -8,9 +8,9 @@ In this problem, you are given an integer array `nums`. You need to calculate an
 
 To solve this problem, we can use two pass approach. Here are the steps:
 
-1. Initialize an array `answer` of the same size as `nums` and initialize all its values to 1. This array will store the product of all elements except the current element.
+1. initialise an array `answer` of the same size as `nums` and initialise all its values to 1. This array will store the product of all elements except the current element.
 2. Calculate the prefix product of `nums` and store it in `answer`. Iterate over `nums` from left to right, and for each element at index `i`, set `answer[i]` to the product of `answer[i-1]` and `nums[i-1]`. This step calculates the product of all elements to the left of the current element.
-3. Calculate the suffix product of `nums`. Iterate over `nums` from right to left, and for each element at index `i`, set `answer[i]` to the product of `answer[i]` and the product of all elements to the right of the current element. Keep a running product variable `suffixProduct` initialized to 1, and for each element at index `i`, update `suffixProduct` as `suffixProduct * nums[i]`.
+3. Calculate the suffix product of `nums`. Iterate over `nums` from right to left, and for each element at index `i`, set `answer[i]` to the product of `answer[i]` and the product of all elements to the right of the current element. Keep a running product variable `suffixProduct` initialised to 1, and for each element at index `i`, update `suffixProduct` as `suffixProduct * nums[i]`.
 4. Finally, return the `answer` array, which contains the product of all elements except the current element.
 
 ## Complexity Analysis

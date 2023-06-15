@@ -23,8 +23,8 @@ To solve this problem, you can use a recursive backtracking algorithm. Here's ho
        - Add the current element to the `current` permutation.
        - Call the `permuteHelper` function recursively with the updated `current` permutation and `visited` array.
        - Remove the last added element from the `current` permutation and mark it as unvisited to backtrack and explore other possibilities.
-3. Finally, initialize an empty list called `result` to store the permutations.
-4. Initialize a boolean array called `visited` with `False` values, representing that no elements have been visited yet.
+3. Finally, initialise an empty list called `result` to store the permutations.
+4. initialise a boolean array called `visited` with `False` values, representing that no elements have been visited yet.
 5. Call the `permuteHelper` function with the initial values of `nums`, an empty `current` permutation, `visited`, and `result`.
 6. Return the `result` list.
 

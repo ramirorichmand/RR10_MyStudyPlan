@@ -23,7 +23,7 @@ To solve this problem, you can use a recursive backtracking algorithm. Here's ho
      - Add the current number to the `combination`.
      - Call the `backtrack` function recursively with the updated `target` (subtracting the current number), `start` (to consider the current number again), and the updated `combination`.
      - Remove the last added number from the `combination` to backtrack and explore other possibilities.
-4. Finally, initialize an empty list called `result` to store the valid combinations.
+4. Finally, initialise an empty list called `result` to store the valid combinations.
 5. Call the `backtrack` function with the initial values of `target`, `start`, `combination`, and `result`.
 6. Return the `result` list.
 

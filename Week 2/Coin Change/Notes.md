@@ -8,7 +8,7 @@ In this problem, you are given an array `coins` representing coins of different 
 
 To solve this problem, we can use a dynamic programming approach. Here are the steps:
 
-1. Create an array `dp` of size `amount + 1` and initialize all the values to `amount + 1`. This represents the minimum number of coins needed to make up each amount from 0 to `amount`.
+1. Create an array `dp` of size `amount + 1` and initialise all the values to `amount + 1`. This represents the minimum number of coins needed to make up each amount from 0 to `amount`.
 2. Set `dp[0]` to 0 since we don't need any coins to make up an amount of 0.
 3. Iterate over the coins array:
    - For each coin, iterate over the amount from the current coin value to `amount`:
@@ -23,7 +23,7 @@ The space complexity is O(amount) because we use an array `dp` of size `amount +
 
 ## Conclusion
 
-The "Coin Change" problem can be solved using dynamic programming. By following the steps outlined above, we should be able to find the fewest number of coins needed to make up the given amount. Remember to properly initialize the `dp` array and iterate over the coins and amounts to calculate the minimum number of coins.
+The "Coin Change" problem can be solved using dynamic programming. By following the steps outlined above, we should be able to find the fewest number of coins needed to make up the given amount. Remember to properly initialise the `dp` array and iterate over the coins and amounts to calculate the minimum number of coins.
 
 It's important to note that dynamic programming is a powerful technique for solving optimization problems like this, where we can break down the problem into smaller subproblems and build up the solution iteratively.
 

@@ -10,7 +10,7 @@ You need to find the index of a given target value `target` in the array `nums`.
 
 To solve this problem, you can use the following approach:
 
-1. Initialize two pointers, `left` and `right`, to the start and end of the array, respectively.
+1. initialise two pointers, `left` and `right`, to the start and end of the array, respectively.
 2. Perform a modified binary search by repeatedly dividing the search space in half:
    - Calculate the mid index as `mid = (left + right) // 2`.
    - Check if the target is equal to the value at the mid index (`nums[mid] == target`). If true, return `mid`.

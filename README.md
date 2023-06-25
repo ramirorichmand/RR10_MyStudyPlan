@@ -1,6 +1,10 @@
 # 17/05/23 RR10 My Study Plan 🤓📚
 
+<img src ="./ReadMe Banner.png" alt="Banner" width="100%"/>
+
+<!--
 <img width="1293" alt="Screenshot 2023-05-17 at 12 58 22" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/94c1f449-e34e-4271-924a-b0230f6909b0">
+-->
 
 <!--
 <img width="943" alt="Screenshot 2023-05-17 at 13 02 02" src="https://github.com/ramirorichmand/RR11_MyStudyPlan/assets/122550071/6da298f1-3ac9-4d30-9d93-2c728d773963">

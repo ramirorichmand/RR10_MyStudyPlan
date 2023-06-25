@@ -11,11 +11,11 @@ To solve this problem, we can use the breadth-first search (BFS) algorithm. The 
 The algorithm follows these steps:
 
 1. Create a set `wordSet` from the `wordList` to facilitate constant-time lookup.
-2. Initialize a queue `queue` and enqueue `beginWord`.
-3. Initialize a set `visited` to keep track of visited words and add `beginWord` to `visited`.
-4. Initialize a variable `level` to track the level of transformation and set it to 1.
+2. Initialise a queue `queue` and enqueue `beginWord`.
+3. Initialise a set `visited` to keep track of visited words and add `beginWord` to `visited`.
+4. Initialise a variable `level` to track the level of transformation and set it to 1.
 5. While the `queue` is not empty:
-   - Initialize a variable `size` to store the current size of the `queue`.
+   - Initialise a variable `size` to store the current size of the `queue`.
    - Iterate `size` times:
      - Dequeue a word from the front of the `queue`.
      - If the dequeued word is equal to `endWord`, return the current `level`.

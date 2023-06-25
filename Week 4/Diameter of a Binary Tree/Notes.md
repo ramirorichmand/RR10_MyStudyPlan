@@ -11,7 +11,7 @@ To solve this problem, I used the following approach:
    - Recursively calculate the heights of the left and right subtrees using the `diameter` function.
    - Calculate the diameter passing through the current node as the sum of the heights of the left and right subtrees plus 1 (for the current node).
    - Return the maximum diameter value among the three: diameter passing through the left subtree, diameter passing through the right subtree, and diameter passing through the current node.
-2. Initialize a variable `maxDiameter` to store the maximum diameter encountered.
+2. Initialise a variable `maxDiameter` to store the maximum diameter encountered.
 3. Start the recursive calculation of the diameter from the root of the binary tree.
 4. Return the value stored in `maxDiameter`.
 

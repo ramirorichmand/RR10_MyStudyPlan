@@ -8,7 +8,7 @@ Given an m x n matrix, you need to return all elements of the matrix in spiral o
 
 To solve this problem, we can use the concept of layers and iterate through the matrix in a spiral order.
 
-1. We initialize four variables: `top`, `bottom`, `left`, and `right`, which represent the boundaries of the current layer.
+1. We initialise four variables: `top`, `bottom`, `left`, and `right`, which represent the boundaries of the current layer.
 2. We start with `top = 0`, `bottom = m - 1`, `left = 0`, and `right = n - 1`, where `m` is the number of rows and `n` is the number of columns in the matrix.
 3. We iterate through the matrix in a spiral order by following these steps:
    - Iterate from `left` to `right` and add the elements in the top row to the result.

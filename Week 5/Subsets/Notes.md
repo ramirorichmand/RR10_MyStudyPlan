@@ -9,7 +9,7 @@ Given an integer array `nums` of unique elements, you need to return all possibl
 To solve this problem, we can use the backtracking approach to generate all possible subsets.
 
 1. We start with an empty list `current` to store the current subset being generated.
-2. We initialize an empty list `result` to store all the subsets generated so far.
+2. We initialise an empty list `result` to store all the subsets generated so far.
 3. We define a helper function `generateSubsets` that takes three parameters: `start` (the index to start the subset generation), `current` (the current subset being generated), and `result` (the list of all subsets generated so far).
 4. In the `generateSubsets` function:
    - We add the `current` subset to the `result` list.

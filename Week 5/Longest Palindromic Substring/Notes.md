@@ -10,8 +10,8 @@ To solve this problem, we can use the dynamic programming approach. We define a 
 
 The algorithm follows these steps:
 
-1. Initialize the 2D array `dp` with `false` values.
-2. Initialize two variables `start` and `maxLen` to keep track of the starting index and length of the longest palindromic substring found so far.
+1. Initialise the 2D array `dp` with `false` values.
+2. Initialise two variables `start` and `maxLen` to keep track of the starting index and length of the longest palindromic substring found so far.
 3. Iterate through the string `s` from the last character to the first character:
    - Set `dp[i][i]` to `true` (single characters are palindromes).
    - Iterate from `i+1` to `n-1`:

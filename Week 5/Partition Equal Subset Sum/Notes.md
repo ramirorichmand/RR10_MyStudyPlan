@@ -12,7 +12,7 @@ To solve this problem, we can use the dynamic programming approach.
 2. If the sum is odd, it is not possible to divide the array into two subsets with equal sums. In this case, we return `false`.
 3. If the sum is even, we create a boolean 2D array `dp` with dimensions `(n+1) x (sum/2 + 1)`, where `n` is the length of the `nums` array.
    - `dp[i][j]` will be `true` if there is a subset of elements from the first `i` elements of the `nums` array that has a sum equal to `j`.
-4. We initialize the first column of `dp` as `true` because we can always form a subset with sum `0` by not selecting any element.
+4. We initialise the first column of `dp` as `true` because we can always form a subset with sum `0` by not selecting any element.
 5. For each element in the `nums` array, we iterate from `1` to `sum/2` and update `dp` as follows:
    - If the current element is greater than the current sum `j`, we copy the value from the cell above (`dp[i-1][j]`).
    - Otherwise, we check if either of the following conditions is true:

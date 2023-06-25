@@ -16,7 +16,7 @@ To solve this problem, I used the following approach:
      - If the previous email exists, add an edge between the current email and the previous email in the `graph`.
      - Add an edge between the previous email and the current email in the `graph`.
 4. Create an empty `visited` set to keep track of visited emails during the graph traversal.
-5. Initialize an empty `mergedAccounts` list to store the merged accounts.
+5. Initialise an empty `mergedAccounts` list to store the merged accounts.
 6. Iterate over each email in the `graph` dictionary:
    - If the email is not present in the `visited` set:
      - Perform a depth-first search (DFS) starting from the current email.

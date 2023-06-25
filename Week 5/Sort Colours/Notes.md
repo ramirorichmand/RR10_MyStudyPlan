@@ -6,7 +6,7 @@ The problem is to sort an array of objects colored red, white, and blue, represe
 ## Approach and Algorithm:
 One approach to solve this problem is to use the Dutch National Flag algorithm, also known as the 3-way partitioning algorithm. This algorithm partitions the array into three sections: elements less than the target color (0), elements equal to the target color (1), and elements greater than the target color (2).
 
-We can initialize three pointers: low, mid, and high. The low pointer points to the beginning of the array, the mid pointer starts at the beginning, and the high pointer starts at the end of the array.
+We can initialise three pointers: low, mid, and high. The low pointer points to the beginning of the array, the mid pointer starts at the beginning, and the high pointer starts at the end of the array.
 
 We iterate through the array while the mid pointer is less than or equal to the high pointer. At each step, we compare the element at the mid pointer with the target color:
 

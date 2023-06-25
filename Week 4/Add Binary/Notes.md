@@ -6,9 +6,9 @@ The problem is to add two binary strings and return the sum as a binary string.
 ## Approach and Algorithm:
 To solve this problem, I used the following approach:
 
-1. Initialize an empty string `result` to store the binary sum.
+1. Initialise an empty string `result` to store the binary sum.
 2. Start from the least significant bit (rightmost) of both strings and iterate backwards.
-3. Initialize carry as 0.
+3. Initialise carry as 0.
 4. For each bit position:
    - Convert the current bits of `a` and `b` to integers.
    - Calculate the sum of the bits and the carry.

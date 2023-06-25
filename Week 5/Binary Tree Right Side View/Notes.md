@@ -9,7 +9,7 @@ Given the root of a binary tree, imagine yourself standing on the right side of 
 To solve this problem, we can use the Breadth-First Search (BFS) algorithm to traverse the binary tree level by level. By keeping track of the last node at each level, we can obtain the right side view of the tree.
 
 1. We start with an empty list `result` to store the values of the nodes in the right side view.
-2. We initialize a queue `queue` and enqueue the root node.
+2. We initialise a queue `queue` and enqueue the root node.
 3. While the queue is not empty:
    - Get the size of the current level (`levelSize`).
    - Iterate through the nodes in the current level:

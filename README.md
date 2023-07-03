@@ -420,6 +420,7 @@ To stay motivated during preparation:
   - [HackerRank's Youtube Channel]
   - Find someone who is also preparing for interviews and discuss problems together - suggested by Yerzhan Mademikhanov
   - Mock interview each other - suggested by Sherzat Aitbayev
+  -  [Subway Surfers VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jirkavrba.subway-surfers) - focus, focus, focus
 
 ## Overview 👀
 

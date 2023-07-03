@@ -158,7 +158,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 6 beginning 25/06/23:</strong></summary>
 <br>
 
@@ -176,9 +176,9 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Letter Combinations of a Phone Number | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | 30 mins | Recursion |
 
 
-<!-- </details> -->
+</details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 7 beginning 02/07/23:</strong></summary>
 <br>
 
@@ -197,7 +197,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Backspace String Compare           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Stack                 |
 
 
-</details>
+<!-- </details> -->
 
 <details>
 <summary><strong>Week 8 beginning 09/07/23:</strong></summary>

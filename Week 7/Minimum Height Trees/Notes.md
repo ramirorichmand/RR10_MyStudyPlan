@@ -12,7 +12,7 @@ To solve this problem, we can use a topological sorting approach. Here are the s
 
 1. If the number of nodes in the tree is 1 or 2, return all the nodes as the result since any node can be the root of a minimum height tree.
 2. Create an adjacency list to represent the tree based on the given edges.
-3. Initialize a queue and enqueue all the leaf nodes (nodes with only one neighbor) into the queue.
+3. Initialise a queue and enqueue all the leaf nodes (nodes with only one neighbor) into the queue.
 4. Remove the leaf nodes from the tree by updating their neighbors' adjacency lists and removing the edges connected to them.
 5. After removing the leaf nodes, some nodes may become new leaf nodes. Enqueue these new leaf nodes into the queue.
 6. Repeat steps 4 and 5 until there are fewer than or equal to 2 nodes left in the tree.

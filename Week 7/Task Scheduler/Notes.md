@@ -12,7 +12,7 @@ To solve this problem, we can use a greedy algorithm. Here are the steps of the 
 
 1. Count the frequency of each task in the given array `tasks` and store it in a frequency map.
 2. Sort the frequencies of the tasks in descending order.
-3. Initialize a variable `maxFreq` to store the maximum frequency of a task.
+3. Initialise a variable `maxFreq` to store the maximum frequency of a task.
 4. Iterate through the sorted frequencies:
    - Increment the result by `maxFreq` since we need at least `maxFreq` units of time to complete the tasks with the highest frequency.
    - Decrement the frequency of the task by 1.

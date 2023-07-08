@@ -4,7 +4,7 @@
 
 The problem is to design a data structure that follows the constraints of a Least Recently Used (LRU) cache. The cache should support the following operations:
 
-- `LRUCache(int capacity)`: Initialize the LRU cache with a positive size `capacity`.
+- `LRUCache(int capacity)`: Initialise the LRU cache with a positive size `capacity`.
 - `int get(int key)`: Return the value of the key if it exists in the cache, otherwise return -1.
 - `void put(int key, int value)`: Update the value of the key if it exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.
 

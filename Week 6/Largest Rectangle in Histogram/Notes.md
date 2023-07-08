@@ -9,7 +9,7 @@ Given an array of integers `heights` representing the histogram's bar height whe
 To solve this problem, we can use the stack-based approach known as the "Monotonic Stack". The algorithm follows these steps:
 
 1. Create an empty stack to store the indices of the bars in non-decreasing order of their heights.
-2. Initialize a variable `maxArea` to store the maximum area found so far and set it to 0.
+2. Initialise a variable `maxArea` to store the maximum area found so far and set it to 0.
 3. Iterate over each bar in the histogram:
    - If the stack is empty or the current bar's height is greater than or equal to the height of the bar at the top of the stack, push the index of the current bar onto the stack.
    - Otherwise, keep popping bars from the stack until a bar with a smaller height than the current bar is found. For each popped bar, calculate its area as the height multiplied by the width (the width is the difference between the current index and the index at the top of the stack or the leftmost bar if the stack is empty).

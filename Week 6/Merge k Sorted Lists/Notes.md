@@ -10,7 +10,7 @@ To solve this problem, we can use a min-heap or priority queue data structure to
 
 1. Create a min-heap or priority queue to store the nodes from all the linked-lists.
 2. Iterate over each linked-list in the array `lists` and insert the head node of each linked-list into the min-heap or priority queue.
-3. Initialize a dummy node and a pointer `current` to keep track of the merged linked-list.
+3. Initialise a dummy node and a pointer `current` to keep track of the merged linked-list.
 4. While the min-heap or priority queue is not empty, do the following:
    - Pop the minimum node from the min-heap or priority queue.
    - Append the popped node to the merged linked-list using the `current` pointer.

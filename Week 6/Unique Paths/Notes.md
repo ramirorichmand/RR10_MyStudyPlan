@@ -10,7 +10,7 @@ To solve this problem, we can use dynamic programming. We'll create a 2D array `
 
 The algorithm follows these steps:
 
-1. Initialize the first row and first column of `dp` to 1 since there's only one way to reach any cell in the first row or first column (by moving only right or down, respectively).
+1. Initialise the first row and first column of `dp` to 1 since there's only one way to reach any cell in the first row or first column (by moving only right or down, respectively).
 2. Iterate through each cell in the grid starting from (1, 1) to (m-1, n-1).
    - At each cell (i, j), the number of unique paths is the sum of the number of paths from the cell above (i-1, j) and the cell to the left (i, j-1). This is because the robot can only move down or right.
    - Update `dp[i][j]` with the calculated value.

@@ -24,7 +24,7 @@ To solve this problem, we can use a recursive backtracking approach. We start wi
 The algorithm follows these steps:
 
 1. Define a mapping of digits to letters.
-2. Initialize an empty list `combinations` to store the resulting combinations.
+2. Initialise an empty list `combinations` to store the resulting combinations.
 3. Implement a recursive backtracking function with the following parameters:
    - `currentCombination`: The current combination being generated.
    - `nextDigits`: The remaining digits to be processed.

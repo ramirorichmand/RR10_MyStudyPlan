@@ -8,9 +8,9 @@ Given two strings `s` and `p`, the task is to find all the start indices in `s` 
 
 To solve this problem, we can use a sliding window approach with a frequency map. Here are the steps of the algorithm:
 
-1. Initialize an empty result list to store the start indices of anagrams.
+1. Initialise an empty result list to store the start indices of anagrams.
 2. Create a frequency map for the string `p`, which counts the occurrences of each character.
-3. Initialize two pointers, `left` and `right`, both pointing to the beginning of `s`.
+3. Initialise two pointers, `left` and `right`, both pointing to the beginning of `s`.
 4. While the `right` pointer is less than the length of `s`:
    - Decrease the frequency of the character at the `right` pointer in the frequency map.
    - If the frequency of the character becomes zero, decrement a counter variable by 1.

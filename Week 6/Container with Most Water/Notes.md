@@ -10,8 +10,8 @@ To solve this problem, we can use a two-pointer approach. We start with two poin
 
 The algorithm follows these steps:
 
-1. Initialize `left` to 0 and `right` to `n - 1`, where `n` is the length of the `height` array.
-2. Initialize a variable `maxArea` to 0 to store the maximum area found so far.
+1. Initialise `left` to 0 and `right` to `n - 1`, where `n` is the length of the `height` array.
+2. Initialise a variable `maxArea` to 0 to store the maximum area found so far.
 3. While `left` is less than `right`, do the following:
    - Calculate the current area using the formula `area = min(height[left], height[right]) * (right - left)`.
    - Update `maxArea` if the current area is greater than `maxArea`.

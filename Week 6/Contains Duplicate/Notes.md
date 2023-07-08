@@ -8,7 +8,7 @@ Given an integer array `nums`, the task is to determine whether any value appear
 
 To solve this problem, we can use a hash set data structure to keep track of the elements we have encountered so far. The algorithm follows these steps:
 
-1. Initialize an empty hash set.
+1. Initialise an empty hash set.
 2. Iterate through each element `num` in the array `nums`.
    - If `num` is already present in the hash set, return `true` (as we have found a duplicate).
    - Otherwise, add `num` to the hash set.

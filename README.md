@@ -178,7 +178,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 7 beginning 02/07/23:</strong></summary>
 <br>
 
@@ -197,7 +197,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Backspace String Compare           | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                                    | 15 mins        | Stack                 |
 
 
-<!-- </details> -->
+</details>
 
 <details>
 <summary><strong>Week 8 beginning 09/07/23:</strong></summary>
@@ -409,6 +409,12 @@ Plan is based on existing preparation guides:
   - **[Interview preparation guide bible from Sergey Makagonov]**
   - [List of Udacity courses developed with Google]
   - [Good guide on GitHub]
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
+  - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating favorite technologies from scratch
+  - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers
+  - [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate LeetCode questions  in the form of an animation
+
+
   <!--
   - [Another guide on GitHub (seems to be less powerful)] -->
 
@@ -475,6 +481,11 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [Codefights] - suggested by Anuar Serikov
    - [Algorithm Design Canvas] - general guides on how to solve algo problems
    - [Exercism](https://exercism.io/) - fun practice in own time
+   - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - open-source codebase and curriculum, learn to code for free.
+   - [Programming Books](https://github.com/EbookFoundation/free-programming-books) - 📚 freely available programming books
+   - [Abdul Bari](https://www.youtube.com/@abdul_bari) - 🐐
+   - [Bro Code](https://www.youtube.com/@BroCodez) - coding bootcamps hate him! See how he can teach you to code with this one weird trick...😅
+
  
 **Comments:**
    - Push solved problems to Github for later usage to refresh memory

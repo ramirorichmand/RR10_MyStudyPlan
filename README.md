@@ -36,7 +36,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 -->
 
 ## Upcoming Projects 🎯
-- ***RR12:*** Unconfirmed Title (Work in Progress 🚧)
+- ***RR13:*** Unconfirmed Title (Work in Progress 🚧)
 - ***RRXX:*** My Personal Portfolio
 
 ## My Timetable 📅
@@ -413,7 +413,7 @@ Plan is based on existing preparation guides:
   - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating favorite technologies from scratch
   - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers
   - [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate LeetCode questions  in the form of an animation
-
+  - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/) - Problems are grouped under their respective subtopic, in order to focus on repeatedly applying common patterns rather than randomly tackling questions
 
   <!--
   - [Another guide on GitHub (seems to be less powerful)] -->
@@ -485,6 +485,10 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [Programming Books](https://github.com/EbookFoundation/free-programming-books) - 📚 freely available programming books
    - [Abdul Bari](https://www.youtube.com/@abdul_bari) - 🐐
    - [Bro Code](https://www.youtube.com/@BroCodez) - coding bootcamps hate him! See how he can teach you to code with this one weird trick...😅
+   - [Neetcode](https://neetcode.io/practice) - Try the problem for 10-15 minutes, watch the first (theory) part of the video solution, try the problem again and either solve it or stop after 30 min, then watch the rest of the video for the implementation, then fix your implementation if needed. If you didn’t get it on your own revisit the problem in a few days. Rinse and repeat.
+   - [Structy](https://structy.net/) - Data Structures & Algorithms made simple
+   - [takeuforward](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Great place to learn data structures, algorithms, most asked coding interview questions, real interview experiences
+
 
  
 **Comments:**

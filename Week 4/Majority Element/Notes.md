@@ -18,4 +18,4 @@ To solve this problem, I used the following approach:
 - The space complexity is O(1) as we only need a constant amount of extra space to store the count and candidate variables.
 
 ## Conclusion:
-By using a clever algorithm that utilizes the property of the majority element appearing more than n/2 times, we can find the majority element in linear time and with constant space complexity. The approach provides an efficient solution for the problem.
+By using a clever algorithm that utilises the property of the majority element appearing more than n/2 times, we can find the majority element in linear time and with constant space complexity. The approach provides an efficient solution for the problem.

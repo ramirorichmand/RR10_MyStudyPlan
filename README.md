@@ -15,7 +15,7 @@
 
 This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
-**Time frame**: ~4 months (mid May - mid September)
+**Time frame**: ~4 months (mid May - October)
 
 **Goal**: at least 1 offer to a big tech company in Europe/US 🧿
 
@@ -37,7 +37,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 ## Upcoming Projects 🎯
 - ***RRXX:*** My Personal Portfolio
-***RR14:*** Unconfirmed Title (Work in Progress 🚧)
+- ***RR14:*** Unconfirmed Title (Work in Progress 🚧)
 
 ## My Timetable 📅
 
@@ -200,7 +200,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 <!-- <details> -->
-<summary><strong>Week 8 beginning 09/07/23:</strong></summary>
+<summary><strong>Week 8 beginning 23/07/23:</strong></summary>
 <br>
 
 | #  | Problem Name                              | Difficulty                                                                                              | Estimated Time | Topic                 |
@@ -220,7 +220,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 <!-- </details> -->
 
 <details>
-<summary><strong>Week 9 beginning 16/07/23:</strong></summary>
+<summary><strong>Week 9 beginning 30/07/23:</strong></summary>
 <br>
 
 | #  | Problem Name                        | Difficulty                                                                                         | Estimated Time | Topic                |

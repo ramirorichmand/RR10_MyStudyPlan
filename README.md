@@ -199,7 +199,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 8 beginning 23/07/23:</strong></summary>
 <br>
 
@@ -217,7 +217,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Find the Duplicate Number                 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                                 | 20 mins        | Binary                |
 
 
-<!-- </details> -->
+</details>
 
 <details>
 <summary><strong>Week 9 beginning 30/07/23:</strong></summary>
@@ -239,7 +239,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 10 beginning 06/08/23:</strong></summary>
 <br>
 
@@ -258,7 +258,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Longest Common Prefix                    | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 20 mins        | String               |
 
 
-</details>
+<!-- </details> -->
 
 <details>
 <summary><strong>Week 11 beginning 13/08/23:</strong></summary>

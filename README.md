@@ -15,7 +15,7 @@
 
 This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
-**Time frame**: ~4 months (mid May - October)
+**Time frame**: ~5 months (mid May - October)
 
 **Goal**: at least 1 offer to a big tech company in Europe/US 🧿
 
@@ -239,7 +239,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 10 beginning 06/08/23:</strong></summary>
 <br>
 
@@ -258,9 +258,9 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Longest Common Prefix                    | ![Easy](https://img.shields.io/badge/-Easy-success?style=flat-square)                               | 20 mins        | String               |
 
 
-<!-- </details> -->
+</details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 11 beginning 13/08/23:</strong></summary>
 <br>
 
@@ -278,7 +278,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Random Pick with Weight                          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Math                 |
 
 
-</details>
+<!-- </details> -->
 
 
 <details>

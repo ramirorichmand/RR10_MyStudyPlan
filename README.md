@@ -260,7 +260,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 11 beginning 13/08/23:</strong></summary>
 <br>
 
@@ -278,10 +278,10 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Random Pick with Weight                          | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                            | 25 mins        | Math                 |
 
 
-<!-- </details> -->
+</details>
 
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 12 beginning 20/08/23:</strong></summary>
 <br>
 
@@ -299,7 +299,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Rotate Image                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Matrix               |
 
 
-</details>
+<!-- </details> -->
 
 <details>
 <summary><strong>Week 13 beginning 27/08/23:</strong></summary>

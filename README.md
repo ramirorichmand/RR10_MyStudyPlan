@@ -281,7 +281,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 12 beginning 20/08/23:</strong></summary>
 <br>
 
@@ -299,10 +299,10 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 10 | Rotate Image                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 25 mins        | Matrix               |
 
 
-<!-- </details> -->
+</details>
 
-<details>
-<summary><strong>Week 13 beginning 27/08/23:</strong></summary>
+<!-- <details> -->
+<summary><strong>Week 13 beginning 03/09/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                          | Difficulty                                                                                           | Estimated Time | Topic                |
@@ -318,10 +318,10 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 9  | Bus Routes                                           | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 45 mins        | Graph                |
 
 
-</details>
+<!-- </details> -->
 
 <details>
-<summary><strong>Week 14 beginning 03/09/23:</strong></summary>
+<summary><strong>Week 14 beginning 10/09/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                          | Difficulty                                                                                           | Estimated Time | Topic                |
@@ -342,7 +342,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 <details>
-<summary><strong>Week 15 beginning 10/09/23:</strong></summary>
+<summary><strong>Week 15 beginning 17/09/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                      | Difficulty                                                                                           | Estimated Time | Topic                |
@@ -364,7 +364,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 </details>
 
 <details>
-<summary><strong>Week 16 beginning 17/09/23:</strong></summary>
+<summary><strong>Week 16 beginning 24/09/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                      | Difficulty                                                                                           | Estimated Time | Topic                |

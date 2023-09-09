@@ -301,7 +301,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 13 beginning 03/09/23:</strong></summary>
 <br>
 
@@ -318,9 +318,9 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 9  | Bus Routes                                           | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 45 mins        | Graph                |
 
 
-<!-- </details> -->
+</details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 14 beginning 10/09/23:</strong></summary>
 <br>
 
@@ -339,7 +339,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Sliding Window Maximum                               | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 35 mins        | Array                |
 
 
-</details>
+<!-- </details> -->
 
 <details>
 <summary><strong>Week 15 beginning 17/09/23:</strong></summary>

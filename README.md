@@ -320,7 +320,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 14 beginning 10/09/23:</strong></summary>
 <br>
 
@@ -339,9 +339,9 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 11 | Sliding Window Maximum                               | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                      | 35 mins        | Array                |
 
 
-<!-- </details> -->
+</details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 15 beginning 17/09/23:</strong></summary>
 <br>
 
@@ -361,10 +361,10 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 12 | Non-overlapping Intervals                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | Array                |
 
 
-</details>
+<!-- </details> -->
 
 <details>
-<summary><strong>Week 16 beginning 24/09/23:</strong></summary>
+<summary><strong>Week 16 beginning 01/10/23:</strong></summary>
 <br>
 
 | #  | Problem Name                                      | Difficulty                                                                                           | Estimated Time | Topic                |

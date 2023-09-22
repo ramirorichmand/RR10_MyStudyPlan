@@ -1,5 +1,11 @@
-package Week 15.Palindrome Number.Convert Sorted Array to Binary Search Tree;
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        
+        for(int i=0; i<nums.length; i++){
+            nums[i] = nums[i] * nums[i];
+        }
 
-public class Solution {
-    
+        Arrays.sort(nums);
+        return nums;
+    }
 }

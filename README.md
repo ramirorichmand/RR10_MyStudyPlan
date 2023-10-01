@@ -341,7 +341,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 15 beginning 17/09/23:</strong></summary>
 <br>
 
@@ -361,9 +361,9 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 12 | Non-overlapping Intervals                         | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square)                              | 20 mins        | Array                |
 
 
-<!-- </details> -->
+</details>
 
-<details>
+<!-- <details> -->
 <summary><strong>Week 16 beginning 01/10/23:</strong></summary>
 <br>
 
@@ -377,7 +377,7 @@ This is my personal coding interview preparation plan that I hope to follow duri
 | 6  | Smallest Range Covering Elements from K Lists     | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | Heap                 |
 
 
-</details>
+<!-- </details> -->
 
 <!--
 ## Getting started 🚀

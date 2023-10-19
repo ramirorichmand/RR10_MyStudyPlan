@@ -13,11 +13,11 @@
 ### Coding <!-- Interview --> Preparation Plan 
 <!-- designed by [@ardulat](https://github.com/ardulat), revised by me. -->
 
-This is my personal coding interview preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by top KZ coders that I know. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
+This is my coding preparation plan that I hope to follow during the time frame. Many things were adopted from other interview prep guides, some were suggested by more experienced coders. Everything was then customised according to my knowledge and experience.  <!-- Feel free to customise it for yourself. -->
 
 **Time frame**: ~5 months (mid May - October)
 
-**Goal**: at least 1 offer to a big tech company in Europe/US 🧿
+**Goal**: Hone my programming skills, improve Java knowledge, and solve complex problems to become a more proficient and confident coder 🚀💻
 
 ## Table of Contents
 - [Upcoming Projects 🎯](#upcoming-projects-)
@@ -421,11 +421,11 @@ Plan is based on existing preparation guides:
 To stay motivated during preparation:
 
   - [Programeme Instagram]
-  - [Tushar Roy’s YouTube Channel] - suggested by Alibek Datbayev
+  - [Tushar Roy’s YouTube Channel]
   - [CS Dojo's YouTube Channel]
   - [HackerRank's Youtube Channel]
-  - Find someone who is also preparing for interviews and discuss problems together - suggested by Yerzhan Mademikhanov
-  - Mock interview each other - suggested by Sherzat Aitbayev
+  - Find someone who is also preparing for interviews and discuss problems together 
+  - Mock interview each other
   -  [Subway Surfers VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jirkavrba.subway-surfers) - focus, focus, focus
 
 ## Overview 👀
@@ -445,9 +445,9 @@ To stay motivated during preparation:
    - Object-Oriented Programming (in Java)
    - System Design (Scalability :smirk:)
    - Dynamic Programming
-   - Computer Architecture (Cache, RAM, etc.) - *review the course at NU*
-   - Operating Systems (Processes and Threads, Scheduling) - *review the course at NU*
-   - Computer Networks (especially TCP/IP) - *review the course at NU*
+   - Computer Architecture (Cache, RAM, etc.) - *review the course*
+   - Operating Systems (Processes and Threads, Scheduling) - *review the course*
+   - Computer Networks (especially TCP/IP) - *review the course*
 
 ## Plan 📝
 
@@ -532,12 +532,12 @@ Everything listed here is optional. Even though it is not that realistic to dedi
    - [*Inside the Black Box: The Simple Truth About Quantitative Trading*]
 
 **Develop own website/landing page:**
-   - [Yenbekbay.me] (source code is starred on Github)
+   - [Yenbekbay.me] 
    - [Sarahlim.com]
 
 **Improve existing codes:**
    - [Software Engineering course project]
-   - [Data Mining course project] - building financial models (use Siraj Raval’s example code)
+   - [Data Mining course project] - building financial models 
 
 **Complete started courses:**
    - [Python for Data Structures, Algorithms, and Interviews!]

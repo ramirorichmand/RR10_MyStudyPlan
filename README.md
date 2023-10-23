@@ -36,7 +36,6 @@ This is my coding preparation plan that I hope to follow during the time frame. 
 -->
 
 ## Upcoming Projects 🎯
-- ***RRXX:*** My Personal Portfolio
 - ***RR15:*** Unconfirmed Title (Work in Progress 🚧)
 
 ## My Timetable 📅
@@ -363,7 +362,7 @@ This is my coding preparation plan that I hope to follow during the time frame. 
 
 </details>
 
-<!-- <details> -->
+<details>
 <summary><strong>Week 16 beginning 01/10/23:</strong></summary>
 <br>
 
@@ -377,7 +376,7 @@ This is my coding preparation plan that I hope to follow during the time frame. 
 | 6  | Smallest Range Covering Elements from K Lists     | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square)                                     | 40 mins        | Heap                 |
 
 
-<!-- </details> -->
+</details>
 
 <!--
 ## Getting started 🚀
@@ -478,7 +477,7 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [LeetCode] - start from easy Facebook, LinkedIn, Uber, AirBnb, then focus on middle and hard problems
    - [InterviewBit] - go for another theory from video lectures and problems
    - [HackerRank], [Codeforces] - if time left for contests (to keep being interested in solving problems)
-   - [Codefights] - suggested by Anuar Serikov
+   - [Codefights] 
    - [Algorithm Design Canvas] - general guides on how to solve algo problems
    - [Exercism](https://exercism.io/) - fun practice in own time
    - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - open-source codebase and curriculum, learn to code for free.
@@ -518,10 +517,10 @@ I have decided to split my plan into two phases (three months each): summer and 
    - [*Computer Networking: A Top-Down Approach* by Jim Kurose]
    - GitHub repos mentioned above
    - **Everything listed in Sergey’s post (MUST!!!)**
-   - [Pramp] - suggested by Yerzhan Mademikhanov (20 unique free interviews)
+   - [Pramp] 
    - [Gainlo] - wanna pay?
-   - [Distributed Systems] - **highly recommended** by Alibek Datbayev
-   - Watch past interviews of people on [Glassdoor], [CareerCup] - suggested by Ulugbek Adilbekov
+   - [Distributed Systems] - **highly recommended** 
+   - Watch past interviews of people on [Glassdoor], [CareerCup] 
 
 ## Extra Time ⏰
 
